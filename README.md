@@ -1,4 +1,3 @@
-/*
 MinimalCSSJS V1.0.0
 
 Includes:>
@@ -6,5 +5,3 @@ Includes:>
 -Sliders
 -Buttons
 -Inputs
-
-*/
